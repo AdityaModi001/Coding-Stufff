@@ -1,0 +1,12 @@
+n = int(input())
+for i in range(n):
+    words = str(input())
+    N = len(words)
+    if N <= 10:
+        print(words)
+    else:
+        mid_len = N - 2
+        first_num = words[0]
+        last_num = words[-1]
+        # print(mid_len)
+        print(f'{first_num}{mid_len}{last_num}')
