@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 3 | 4 |
 
 ---
 
@@ -14,6 +14,7 @@
 
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
+- [implementation](#implementation) (1)
 - [strings](#strings) (1)
 
 ---
@@ -29,6 +30,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/231/A%20-%20Team/solution.txt) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.txt) |
 
 ### strings
 
