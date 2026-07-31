@@ -1,0 +1,13 @@
+rows = int(input())
+ 
+matrix = [list(map(int, input().split())) for _ in range(rows)]
+res_count =0
+for i in range(len(matrix)):
+    sol_count = 0
+    for j in range(3):
+        if matrix[i][j] == 1:
+            sol_count += 1
+    if sol_count > 1:
+        res_count += 1
+ 
+print(res_count)
