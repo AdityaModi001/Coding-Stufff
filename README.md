@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 5 |
+| 5 | 6 |
 
 ---
 
@@ -14,8 +14,9 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (2)
+- [math](#math) (1)
 - [strings](#strings) (1)
 
 ---
@@ -36,6 +37,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/231/A%20-%20Team/solution.txt) |
 
 ### implementation
@@ -44,6 +46,12 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.txt) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 
 ### strings
 
