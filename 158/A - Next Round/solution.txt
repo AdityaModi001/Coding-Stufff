@@ -1,0 +1,8 @@
+n , k = map(int, input().strip().split())
+nums = list(map(int, input().strip().split()))
+finisher_score = nums[k-1]
+count =0
+for pos in range(len(nums)):
+    if nums[pos] >= finisher_score and nums[pos] > 0:
+        count += 1
+print(count)
