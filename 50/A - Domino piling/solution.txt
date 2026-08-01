@@ -1,0 +1,4 @@
+m,n = list(map(int,input().strip().split()))
+ 
+max = m * n 
+print(max//2)
