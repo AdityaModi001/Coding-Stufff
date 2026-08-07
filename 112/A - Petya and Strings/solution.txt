@@ -1,0 +1,17 @@
+# their we have to campare the 2 strings lexicographically
+# the input consits of 2 string and to compare them we
+ 
+s1 = str(input())
+s2 = str(input())
+ 
+# if len(s1) != len(s2):
+#     print("Invalid Input")
+s1 = s1.lower()
+s2 = s2.lower()
+if s1 < s2:
+    print('-1')
+elif s2 < s1:
+    print('1')
+else:
+    print('0')
+ 
