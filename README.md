@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 6 |
+| 8 | 7 |
 
 ---
 
@@ -14,10 +14,11 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
-- [greedy](#greedy) (2)
-- [implementation](#implementation) (4)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (5)
 - [math](#math) (1)
-- [strings](#strings) (3)
+- [sortings](#sortings) (1)
+- [strings](#strings) (4)
 
 ---
 
@@ -40,6 +41,7 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/231/A%20-%20Team/solution.txt) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 
 ### implementation
 
@@ -49,12 +51,19 @@
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.txt) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 
 ### strings
 
@@ -63,6 +72,7 @@
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.txt) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 
 ---
 
