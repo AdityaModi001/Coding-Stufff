@@ -1,0 +1,14 @@
+# their are the some of the multiple numbers
+# and their is pupil who is required to calculate the sum of the required number
+ 
+s = str(input())
+ 
+lst = s.split('+')
+lst.sort()
+ans = '+'.join(lst)
+print(ans)
+ 
+# n = len(s)
+# if n == 1:
+#     print(s)
+ 
