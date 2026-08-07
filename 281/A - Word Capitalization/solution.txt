@@ -1,0 +1,11 @@
+letter = str(input())
+ 
+first_word = letter[0]
+to_check1 = ord(first_word)
+to_check = ord(first_word) - 32
+if to_check1 < 96:
+    print(letter)
+else:
+    to_upper_case = chr(ord(first_word) - 32)
+    res = to_upper_case + letter[1:]
+    print(res)
