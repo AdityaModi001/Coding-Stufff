@@ -1,0 +1,12 @@
+w_linak , w_bob = map(int, input().split())
+ 
+for i in range(20):
+    if w_linak > w_bob:
+        break
+    else:
+        w_linak = w_linak * 3
+        w_bob = w_bob *  2
+ 
+ 
+print(i)
+ 
