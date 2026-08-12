@@ -1,0 +1,14 @@
+import sys
+def solve():
+    # Read the coordinate from standard input
+    x = int(sys.stdin.read().strip())
+ 
+    # Calculate minimum steps using integer division
+    # Adding 4 handles any remainders (1, 2, 3, or 4) automatically
+    ans = (x + 4) // 5
+ 
+    print(ans)
+ 
+ 
+if __name__ == '__main__':
+    solve()
