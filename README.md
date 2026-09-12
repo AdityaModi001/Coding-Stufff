@@ -6,18 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 7 |
+| 12 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (2)
-- [greedy](#greedy) (3)
+- [brute force](#brute-force) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (7)
 - [math](#math) (2)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (5)
 
 ---
@@ -34,6 +34,7 @@
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/231/A%20-%20Team/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.txt) |
 
 ### greedy
 
@@ -42,6 +43,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/231/A%20-%20Team/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.txt) |
 
 ### implementation
 
@@ -67,6 +69,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.txt) |
 
 ### strings
 
