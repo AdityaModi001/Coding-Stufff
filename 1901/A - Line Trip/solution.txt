@@ -1,0 +1,18 @@
+t = int(input()) # 1. Loop through 't' test cases
+ 
+for _ in range(t):
+    # 2. Read n and x from the same line
+    n, x = map(int, input().split()) 
+    
+    # 3. Read the array once (it's all on one line)
+    a = list(map(int, input().split())) 
+    
+    # 4. Find the largest gap
+    max_gap = a[0] - 0 # Gap from start to first station
+    
+    for i in range(1, n):
+        max_gap = max(max_gap, a[i] - a[i-1]) # Gaps between stations
+        
+    max_gap = max(max_gap, 2 * (x - a[-1])) # Double the last gap to 'x' and back
+    
+    print(max_gap)
