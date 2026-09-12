@@ -1,0 +1,17 @@
+t = int(input())  # Read number of test cases
+ 
+for _ in range(t):
+    # Correctly read n and k from the same line
+    n, k = map(int, input().split()) 
+    
+    # Correctly read the entire array from a single line
+    a = list(map(int, input().split()))
+ 
+    # Your original core logic
+    if a == sorted(a):
+        print("YES")
+    else:
+        if k <= 1:
+            print("NO")  # Capitalized to match problem requirements
+        else:
+            print("YES")
