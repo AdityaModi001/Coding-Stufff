@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 7 |
+| 14 | 8 |
 
 ---
 
@@ -14,11 +14,12 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (3)
-- [greedy](#greedy) (5)
-- [implementation](#implementation) (7)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [greedy](#greedy) (6)
+- [implementation](#implementation) (8)
 - [math](#math) (3)
 - [sortings](#sortings) (2)
-- [strings](#strings) (5)
+- [strings](#strings) (6)
 
 ---
 
@@ -36,6 +37,12 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.txt) |
 
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.txt) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -43,6 +50,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/231/A%20-%20Team/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.txt) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/1901/A%20-%20Line%20Trip/solution.txt) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.txt) |
 
@@ -57,6 +65,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.txt) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.txt) |
 
 ### math
 
@@ -82,6 +91,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [PyPy 3-64](https://github.com/AdityaModi001/Coding-Stufff/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.txt) |
 
 ---
 
